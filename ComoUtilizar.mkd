@@ -1,0 +1,20 @@
+# EXPLICAÇÃO DE COMO UTILIZAR
+
+
+## PARA RODAR EXECUTE
+
+### No terminal execute: robot -d ./logs tests
+
+* robot == comando do framework
+* -d diretório 
+* ./logs == vai gerar uma pasta logs com todos output
+* tests == vai executar o arquivo que estiver na pasta tests
+
+
+## DEPENDENCIAS
+
+* pip install robotframework
+* pip install --upgrade robotframework-seleniumlibrary
+* pip install pyyaml
+
+
